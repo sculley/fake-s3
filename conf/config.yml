@@ -1,0 +1,4 @@
+general:
+  port: 8080
+  read_timeout: 15
+  write_timeout: 15
